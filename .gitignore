@@ -1,1 +1,21 @@
-"bin/" 
+# Eclipse-Projektdateien 
+.project 
+.settings/ 
+.metadata/ 
+ 
+# Kompilierte Klassen 
+bin/ 
+*.class 
+ 
+# Log-Dateien 
+*.log 
+ 
+# Build-Ordner / tempor„re Dateien 
+target/ 
+out/ 
+ 
+# MacOS spezifische Dateien 
+.DS_Store 
+ 
+# Windows spezifische Dateien 
+Thumbs.db 

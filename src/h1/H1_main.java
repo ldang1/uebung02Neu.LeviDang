@@ -5,6 +5,14 @@ public class H1_main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		int z = 11;
+		
+		if (z>10) {
+			
+			z = z-10;
+		}
+				
+		System.out.print(z);		
 	}
 
 }
